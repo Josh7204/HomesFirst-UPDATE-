@@ -1,0 +1,90 @@
+body, html{
+  height: 100%;
+  padding-right: 10%
+  padding-left 10%;
+
+}
+.topnav {
+  background-color: black;
+  overflow:hidden;
+padding: 10px;
+
+
+}
+
+.topnav a {
+  float: centre;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  overflow: hidden;
+
+
+
+}
+
+a.active {
+  text-decoration: underline;
+}
+.Banner
+{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Assets/Banner.jpg");
+  height: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+.BannerIncText {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  ◘
+  width: 100%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+}
+
+.MainBodyText
+{
+ font-family:Georgia,serif;
+ font-size: 12px;
+  font-weight: bold;
+ text-transform:uppercase;
+ letter-spacing:2px; 
+}
+
+
+.footer {
+    position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;  
+  background-color: Black;
+
+}
+
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px;   box-sizing: border-box; 
+  margin-top: 6px;
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+
+
+  background-color: #45a049;
+}
+
+
+.iframe {
+  Border: 2px red solid;
+}

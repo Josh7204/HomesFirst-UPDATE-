@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"all\tposition"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"im",
+				"background-image\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-underline-position\tproperty"
+			],
+			[
+				"textdec",
+				"text-decoration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"root",
+				"gupnp_root_device_get_available"
+			],
+			[
+				"conec",
+				"conneected"
+			],
+			[
+				"pass",
+				"fbsql_password"
+			],
+			[
+				"userna",
+				"fbsql_username"
+			],
+			[
+				"server",
+				"db2_server_info"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"conn",
+				"connection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/611772426/Documents/Year 2 Uni/Sem 2/Software Design and Develpment/Assign/Assign2/HomesFirstWebsite/LandingPage.html",
+		"/C/Users/611772426/Documents/Year 2 Uni/Sem 2/Software Design and Develpment/Assign/Assign2/HomesFirstWebsite/CustomerLogin.html",
+		"/C/Users/611772426/Documents/Year 2 Uni/Sem 2/Software Design and Develpment/Assign/Assign2/HomesFirstWebsite/What we can do for you.html",
+		"/C/Users/611772426/desktop/uni website/Testing/Website.html",
+		"/C/Users/611772426/desktop/uni website/Testing/Stylesheet.css",
+		"/C/Users/611772426/desktop/uni website/HomesFirst/Website.css",
+		"/C/Users/611772426/desktop/uni website/HomesFirst/Website",
+		"/C/Users/611772426/Desktop/uni website/Testing/HomesFirstTest.css",
+		"/C/Users/611772426/desktop/uni website/Testing/HomesFirstTest.css",
+		"/C/Users/611772426/Documents/uni.html",
+		"/C/Users/611772426/Desktop/website 2.html",
+		"/C/Users/611772426/Desktop/Desktop/CSS.php",
+		"/C/Users/611772426/desktop/Assign/assign.css",
+		"/C/Users/611772426/desktop/Assign/Assign.html",
+		"/C/Users/611772426/Desktop/test.html",
+		"/C/Users/611772426/Desktop/uni.html",
+		"/C/Users/611772426/desktop/uni website/website.css",
+		"/C/Users/611772426/Desktop/uni website/uni.html",
+		"/C/Users/611772426/Desktop/uni website/website.css",
+		"/C/Users/611772426/desktop/uni.html",
+		"/C/Users/611772426/desktop/Desktop/CSS.php",
+		"/C/Users/611772426/desktop/website 2.html",
+		"/C/Users/611772426/Documents/Robotics/webpage.htnl",
+		"/C/Users/611772426/Documents/Robotics/webpage.html",
+		"/C/Users/611772426/Documents/other/test.html",
+		"/C/Users/611772426/Documents/Josh's Website.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "Home.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
